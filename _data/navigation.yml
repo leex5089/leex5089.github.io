@@ -6,7 +6,7 @@ main:
     url: /_pages/Teaching/
   - title: "C.V."
     url: /_pages/CV/
-    title: "Data"
+  - title: "Data"
     url: /_pages/Data/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
