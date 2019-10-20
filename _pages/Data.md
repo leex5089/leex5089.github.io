@@ -13,5 +13,5 @@ header:
   <dd>Education</dd>
  
 <p>   
- <video src="/images/bw_disparity.mp4" width="1020" height="900" controls preload>  </video>
+ <video src="/images/bw_disparity.mp4" width="1020" height="900" controls autoplay>  </video>
  
