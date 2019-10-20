@@ -10,5 +10,5 @@ header:
 <dl>
 	<dt><b>Trends</b></dt>
  </dl>
- <video src="/images/bw_disparity.mp4" width="920" height="700" autoplay loop>  </video>
+ <video src="/images/disparity_ratio_mathgap.mp4" width="920" height="700" autoplay loop>  </video>
  
