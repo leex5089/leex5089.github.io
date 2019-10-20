@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Research"
+    url: /_pages/Research/
+  - title: "Teaching"
+    url: /_pages/Teaching/
+  - title: "C.V."
+    url: /_pages/CV/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/  
