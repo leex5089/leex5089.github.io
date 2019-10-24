@@ -16,3 +16,5 @@ header:
  <iframe src="/images/agedepen.html"  width="920" height="700" name="targetframe" allowTransparency="true" scrolling="yes" frameborder="0" frameborder="0" allow="accelerometer; autoplay"></iframe>
  <iframe src="/images/wdi_femalelaborparticipation.html"  width="920" height="700" name="targetframe" allowTransparency="true" scrolling="yes" frameborder="0" frameborder="0" allow="accelerometer; autoplay"></iframe>
   <iframe src="/images/wdi_mobilphone.html"  width="920" height="700" name="targetframe" allowTransparency="true" scrolling="yes" frameborder="0" frameborder="0" allow="accelerometer; autoplay"></iframe>
+  <iframe src="/images/wdi_electricity.html"  width="920" height="700" name="targetframe" allowTransparency="true" scrolling="yes" frameborder="0" frameborder="0" allow="accelerometer; autoplay"></iframe>
+  <iframe src="/images/wdi_birthrate.html"  width="920" height="700" name="targetframe" allowTransparency="true" scrolling="yes" frameborder="0" frameborder="0" allow="accelerometer; autoplay"></iframe>
