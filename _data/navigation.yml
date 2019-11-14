@@ -8,6 +8,8 @@ main:
     url: /_pages/CV/
   - title: "Data"
     url: /_pages/Data/
+  - title: "Maps"
+    url: /_pages/Data/Maps/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
