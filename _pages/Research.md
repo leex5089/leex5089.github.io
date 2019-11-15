@@ -43,10 +43,10 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</dd>
 
   <dt><b>Works in Progress</b></dt>
     <p>
-  <dd>Davis, E., W. Lee & A. Sojourner. Minnesota Child Care Policy Analysis</dd>
+  <dd> Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market</dd>
    <p>  
     <p>
-  <dd>Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. (Under review)</dd>
+  <dd>Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. R&R at Journal of Research on Educational Effectiveness</dd>
    <p>  
     <p>
   <dd>Lee. W. Effect of Parental Preference for Child Sex on Child Outcomes: Evidence from Korea. [<a href="https://leex5089.github.io/images/SREE2019.pdf"  target="_blank" style="font-size:14px; color:#973333">2019 SREE Poster</a>]</dd>
@@ -54,6 +54,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</dd>
   <p>
   <dd>Lee. W. Effect of single-sex schools on student outcomes: Quasi-experimental evidence from Seoul.</dd>
    <p>  
+ 
  
 
   <dd>   
