@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<title>Style circles with a data-driven property</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css' rel='stylesheet' />
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+.quakeInfo {
+  position: absolute;
+  font-family: sans-serif;
+  margin-top: 5px;
+  margin-left: 5px;
+  padding: 5px;
+  width: 50%;
+  border: 2px solid black;
+  font-size: 14px;
+  color: #000000;
+  background-color: rgba(240, 255, 255, 0.8);
+  border-radius: 1px;
+}
+</style>
+</head>
+<body>
+ 
+<div id='map'></div>
+ <div class='quakeInfo'>
+               <div><strong><font size="3.5">[Zipcode] California Housing Price</font></strong>  </div>
+          <div><strong>County:</strong> <span id='countyname'></span></div>
+     <div><strong>City:</strong> <span id='city'></span></div>
+  <div><strong>Zipcode:</strong> <span id='mag'></span></div>
+  <div><strong>Median home value (per sq foot):</strong> <span id='loc'></span></div>
+
+</div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1Ijoid29ubGVlIiwiYSI6ImNqYjY0bHZlczBvMnAzMm16OTlyYWFzYnYifQ.yaLx92dXVMk1NKp5Fp7HUg';
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/dark-v9',
+zoom: 8,
+center: [-122.447303, 37.753574]
+});
+ var hoveredStateId =  null;
+map.on('load', function () {
+ 
+/* Sample feature from the `examples.8fgz4egr` tileset:
+{
+"type": "Feature",
+"properties": {
+"ethnicity": "White"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [ -122.447303, 37.753574 ]
+}
+}
+*/
+map.addLayer({
+'id': 'zipcode_ca_homevalue-4i4zv8_v2',
+'type': 'fill',
+'source': {
+type: 'vector',
+url: 'mapbox://wonlee.67z2i5dz'
+},
+'source-layer': 'zipcode_ca_homevalue-4i4zv8',
+   "type": "fill",
+   'paint': {
+'fill-color': [
+'interpolate',
+['linear'],
+['get', 'value'],
+1, 'rgba(0, 0, 255, 0)',
+100, '#00FF0F',
+200, '#DEFF7D',
+300, '#AEFF7D',
+400, '#53FF02',
+800, '#FFF702',
+1000, '#FFBE02',
+1500, '#FF5A02',
+1800, '#FF0000'
+],
+"fill-opacity": ["case",
+["boolean", ["feature-state", "hover"], false],
+1,
+0.6
+
+
+]
+}
+});
+// When the user moves their mouse over the state-fill layer, we'll update the
+// feature state for the feature under the mouse.
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('countyname').innerHTML = ZCTA5CE10[0].properties.countyname ;
+    } else {
+        document.getElemnentById('countyname').innerHTML ='countyname';
+    }
+});
+
+
+
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('city').innerHTML = ZCTA5CE10[0].properties.city ;
+    } else {
+        document.getElemnentById('city').innerHTML ='city';
+    }
+});
+
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('mag').innerHTML = ZCTA5CE10[0].properties.ZCTA5CE10 ;
+    } else {
+        document.getElemnentById('mag').innerHTML ='asd';
+    }
+});
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('loc').innerHTML = '$'+ZCTA5CE10[0].properties.value.toFixed(1)  ;
+    } else {
+        document.getElemnentById('loc').innerHTML ='asd';
+    }
+});
+
+
+
+
+
+
+
+
+});
+
+
+</script>
+ 
+</body>
+</html>
