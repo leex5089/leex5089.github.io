@@ -18,7 +18,7 @@ body { margin:0; padding:0; }
   padding: 5px;
   width: 25%;
   border: 2px solid black;
-  font-size: 17px;
+  font-size: 18px;
   color: #000000;
   background-color: rgba(240, 255, 255, 0.8);
   border-radius: 1px;
@@ -29,11 +29,12 @@ body { margin:0; padding:0; }
  
 <div id='map'></div>
  <div class='quakeInfo'>
-               <div><strong><font size="3.5">[Zipcode] California Housing Price</font></strong>  </div>
+ <div><strong><font size="3.5">[Zipcode] U.S. Housing Price, August 2019</font></strong>  </div>
           <div><strong>County:</strong> <span id='countyname'></span></div>
      <div><strong>City:</strong> <span id='city'></span></div>
   <div><strong>Zipcode:</strong> <span id='mag'></span></div>
   <div><strong>Median home value (per sq foot):</strong> <span id='loc'></span></div>
+  <div><strong><font size="3.5">Source: Zillow</font></strong>  </div>
 
 </div>
 <script>
@@ -42,6 +43,8 @@ var map = new mapboxgl.Map({
 container: 'map',
 style: 'mapbox://styles/mapbox/dark-v9',
 zoom: 8,
+
+minZoom: 6,
 center: [-122.447303, 37.753574]
 });
  var hoveredStateId =  null;
@@ -60,13 +63,13 @@ map.on('load', function () {
 }
 */
 map.addLayer({
-'id': 'zipcode_ca_homevalue-4i4zv8_v2',
+'id': 'zipcode_us_homevalue12-40kq0h',
 'type': 'fill',
 'source': {
 type: 'vector',
-url: 'mapbox://wonlee.67z2i5dz'
+url: 'mapbox://wonlee.4lg8xc8u'
 },
-'source-layer': 'zipcode_ca_homevalue-4i4zv8',
+'source-layer': 'zipcode_us_homevalue12-40kq0h',
    "type": "fill",
    'paint': {
 'fill-color': [
@@ -97,7 +100,7 @@ url: 'mapbox://wonlee.67z2i5dz'
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+        layers: ['zipcode_us_homevalue12-40kq0h']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('countyname').innerHTML = ZCTA5CE10[0].properties.countyname ;
@@ -111,7 +114,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+        layers: ['zipcode_us_homevalue12-40kq0h']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('city').innerHTML = ZCTA5CE10[0].properties.city ;
@@ -123,7 +126,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+        layers: ['zipcode_us_homevalue12-40kq0h']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('mag').innerHTML = ZCTA5CE10[0].properties.ZCTA5CE10 ;
@@ -134,7 +137,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['zipcode_ca_homevalue-4i4zv8_v2']
+        layers: ['zipcode_us_homevalue12-40kq0h']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('loc').innerHTML = '$'+ZCTA5CE10[0].properties.value.toFixed(1)  ;
