@@ -43,7 +43,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</dd>
 
   <dt><b>Works in Progress</b></dt>
     <p>
-  <dd> Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market</dd>
+  <dd> Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market  [<a href="https://leex5089.github.io/revealjs_slide/APPAM2019_DID_slide_v2.html"  target="_blank" style="font-size:14px; color:#973333">2019 APPAM Slide</a>]</dd>
    <p>  
     <p>
   <dd>Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. R&R at Journal of Research on Educational Effectiveness</dd>
@@ -54,7 +54,9 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</dd>
   <p>
   <dd>Lee. W. Effect of single-sex schools on student outcomes: Quasi-experimental evidence from Seoul.</dd>
    <p>  
- 
+  <p>
+  <dd>Alemu, B., McNeely, C., Lee. W. Is being Black unexcused? The relationship between policies guiding the coding of absences and racial disparities in unexcused absences. [<a href="https://drive.google.com/file/d/1OndPTGq2febP_ahUrsodBIX6jRHdBl4i/view"  target="_blank" style="font-size:14px; color:#973333">Draft</a>]</dd>
+   <p>  
  
 
   <dd>   
