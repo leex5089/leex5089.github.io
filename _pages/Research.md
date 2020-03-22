@@ -42,12 +42,13 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</dd>
 <p>                            
 
   <dt><b>Works in Progress</b></dt>
+      <p>
+  <dd>Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. Conditionally accepted at Journal of Research on Educational Effectiveness</dd>
+   <p>  
     <p>
   <dd> Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market  [<a href="https://leex5089.github.io/revealjs_slide/APPAM2019_DID_slide_v2.html"  target="_blank" style="font-size:14px; color:#973333">2019 APPAM Slide</a>]</dd>
    <p>  
-    <p>
-  <dd>Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. R&R at Journal of Research on Educational Effectiveness</dd>
-   <p>  
+
     <p>
   <dd>Lee. W. Effect of Parental Preference for Child Sex on Child Outcomes: Evidence from Korea. [<a href="https://leex5089.github.io/images/SREE2019.pdf"  target="_blank" style="font-size:14px; color:#973333">2019 SREE Poster</a>]</dd>
    <p>  
