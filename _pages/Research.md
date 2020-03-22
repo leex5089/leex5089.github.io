@@ -13,7 +13,7 @@ header:
   <p>
   <dd>McNeely. C, W. Lee., J. Rosenbaum., B. Alemu & Renner. L. (2019) <a href="https://link.springer.com/article/10.1007/s11121-019-01027-z" target="_blank" style="color:#2B72B8">Long-Term Effects of Truancy Diversion on School Attendance: A Quasi-Experimental Study with Linked Administrative Data.</a> Prevention Science 20(7):996-1008 
   <ul>
-  <li > <font size="14px">won Research on Adolescence Social Policy Publication Award for Best Article in a Peer-Reviewed Journal, 2020 Society for Research on Adolescence, San Diego [meeting canceled due to Covid19].</font></li>
+  <li > <font size="7">won Research on Adolescence Social Policy Publication Award for Best Article in a Peer-Reviewed Journal, 2020 Society for Research on Adolescence, San Diego [meeting canceled due to Covid19].</font></li>
 </ul>
 </dd>
  
