@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: "https://leex5089.github.io/"
+permalink: "https://kangx373.github.io/youngsoonkang/"
 title: "Home"
 author_profile: true
 header:
