@@ -10,6 +10,10 @@ header:
 
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
+        <p>
+  <dd><font size="3">Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. (2020)  Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. Forthcoming at <a href="https://www.tandfonline.com/toc/uree20/current" target="_blank" style="color:#344c63">Journal of Research on Educational Effectiveness</a></font></dd> 
+
+
   <p>
   <dd><font size="3">McNeely. C, W. Lee., J. Rosenbaum., B. Alemu & Renner. L. (2019) <a href="https://link.springer.com/article/10.1007/s11121-019-01027-z" target="_blank" style="color:#344c63">Long-Term Effects of Truancy Diversion on School Attendance: A Quasi-Experimental Study with Linked Administrative Data.</a> Prevention Science 20(7):996-1008 </font>
   <ul>
@@ -51,9 +55,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 <p>                            
 
   <dt><b><font size="4">Works in Progress</font></b></dt>
-      <p>
-  <dd><font size="3">Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. Conditionally accepted at <a href="https://www.tandfonline.com/toc/uree20/current" target="_blank" style="color:#344c63">Journal of Research on Educational Effectiveness</a></font></dd>
-   <p>  
+
     <p>
   <dd><font size="3">Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market  [<a href="https://leex5089.github.io/revealjs_slide/APPAM2019_DID_slide_v2.html"  target="_blank" style="font-size:14px; color:#973333">2019 APPAM Slide</a>]</font></dd>
    <p>  
