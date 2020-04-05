@@ -73,7 +73,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
   <ul style="list-style-type:circle">
   <li><a href="https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en" target="_blank" style="color:#344c63">Google Scholar</a></li>
   <li><a href="https://www.researchgate.net/profile/Won_Fy_Lee" target="_blank" style="color:#344c63">ResearchGate</a></li> 
-</ul></font>
+</ul>
  </dd>
 
 {% include base_path %}
