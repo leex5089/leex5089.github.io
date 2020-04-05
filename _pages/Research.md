@@ -9,7 +9,7 @@ header:
    
 
 <dl>
-	<dt><b>Publications</b></dt>
+	<dt><b><font size="4">Publications</font></b></dt>
   <p>
   <dd><font size="3">McNeely. C, W. Lee., J. Rosenbaum., B. Alemu & Renner. L. (2019) <a href="https://link.springer.com/article/10.1007/s11121-019-01027-z" target="_blank" style="color:#344c63">Long-Term Effects of Truancy Diversion on School Attendance: A Quasi-Experimental Study with Linked Administrative Data.</a> Prevention Science 20(7):996-1008 </font>
   <ul>
@@ -38,7 +38,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 <p>
   <dd><font size="3">Tiffany. D., W. Lee, M. Vance & N. Kaliyan. (2013) <a href="http://www.techno-press.org/?page=container&journal=eri&volume=1&num=2" target="_blank" style="color:#344c63">Economic analysis of biomass torrefaction plants integrated with corn ethanol plants and coal-fired power plants</a> Advances in Energy Research 1(2):127-146</font></dd>
   <p> 
-<dt><b>Policy Reports</b></dt>
+<dt><b><font size="4">Policy Reports</font></b></dt>
 
 
 
@@ -50,7 +50,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
   <dd><font size="3">Myers. S., W. Lee & J. Toney. <a href="https://drive.google.com/open?id=0B2L0_Tafp1oBRVN6dHdCOTBjTTg" target="_blank" style="color:#344c63"> Responsible Banking in the Twin Cities</a>  Roy Wilkins Center for Justice and Inequality, University of Minnesota, St. Paul, MN. August 2015 [<a href="http://www.startribune.com/st-paul-city-council-looks-to-banks-to-help-reduce-racial-disparities/412483143/" target="_blank" style="font-size:12px; color:#973333">StarTribune</a>], [<a href="https://www.kare11.com/article/news/local/study-finds-lending-discrimination-in-twin-cities/105436195" target="_blank" style="font-size:12px; color:#973333">KARE11</a>]</font> </dd>
 <p>                            
 
-  <dt><b>Works in Progress</b></dt>
+  <dt><b><font size="4">Works in Progress</font></b></dt>
       <p>
   <dd><font size="3">Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. Conditionally accepted at <a href="https://www.tandfonline.com/toc/uree20/current" target="_blank" style="color:#344c63">Journal of Research on Educational Effectiveness</a></font></dd>
    <p>  
