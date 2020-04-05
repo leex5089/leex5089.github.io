@@ -11,7 +11,7 @@ header:
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
         <p>
-  <dd><font size="3">Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. (2020)  Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. Forthcoming at <a href="https://www.tandfonline.com/toc/uree20/current" target="_blank" style="color:#344c63">Journal of Research on Educational Effectiveness</a></font></dd> 
+  <dd><font size="3">Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. (Forthcoming)  Does a Commonly-Implemented Court Diversion Strategy Improve Attendance in Elementary School? Evaluation of the Family Truancy Intervention Program. <a href="https://www.tandfonline.com/toc/uree20/current" target="_blank" style="color:#344c63">Journal of Research on Educational Effectiveness</a></font></dd> 
 
 
   <p>
