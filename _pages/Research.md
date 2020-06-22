@@ -46,7 +46,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 
 
    <p>
-  <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#344c63">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>Washington: Center for American Progress, 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#973333">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#973333">childcaredeserts.org</a>]  </font></dd>
+  <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#344c63">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>  Center for American Progress, Washington D.C. 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#973333">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#973333">childcaredeserts.org</a>]  </font></dd>
 <p>       
 
 
