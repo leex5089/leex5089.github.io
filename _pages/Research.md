@@ -15,7 +15,7 @@ header:
 AERA Open 7(1):1–17 </font></dd> 
 
         <p>
-  <dd><font size="3">Lee, W., C. McNeely., B. Alemu., J. Rosenbaum. & L. Renner. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1760976" target="_blank" style="color:#344c63">Can Court Diversion Improve School Attendance among Elementary Students? Evidence from Five School Districts</a> Journal of Research on Educational Effectiveness </font></dd> 
+  <dd><font size="3">Lee, W., C. McNeely., B. Alemu., J. Rosenbaum. & L. Renner. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1760976" target="_blank" style="color:#344c63">Can Court Diversion Improve School Attendance among Elementary Students? Evidence from Five School Districts</a> Journal of Research on Educational Effectiveness 13(4):625-651</font></dd> 
 
   <p>
   <dd><font size="3">McNeely. C, W. Lee., J. Rosenbaum., B. Alemu & Renner. L. (2019) <a href="https://link.springer.com/article/10.1007/s11121-019-01027-z" target="_blank" style="color:#344c63">Long-Term Effects of Truancy Diversion on School Attendance: A Quasi-Experimental Study with Linked Administrative Data.</a> Prevention Science 20(7):996-1008 </font>
