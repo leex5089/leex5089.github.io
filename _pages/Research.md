@@ -12,7 +12,7 @@ header:
 	<dt><b><font size="4">Publications</font></b></dt>
         <p>
   <dd><font size="3">McNeely, C., B. Alemu., W, Lee. & West, I. (2021) <a href="https://journals.sagepub.com/doi/full/10.1177/23328584211003132" target="_blank" style="color:#344c63">Exploring an Unexamined Source of Racial Disparities in Juvenile Court Involvement: Unexcused Absenteeism Policies in U.S. Schools</a> 
-AERA Open </font></dd> 
+AERA Open 7(1):1–17 </font></dd> 
 
         <p>
   <dd><font size="3">Lee, W., C. McNeely., B. Alemu., J. Rosenbaum. & L. Renner. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1760976" target="_blank" style="color:#344c63">Can Court Diversion Improve School Attendance among Elementary Students? Evidence from Five School Districts</a> Journal of Research on Educational Effectiveness </font></dd> 
