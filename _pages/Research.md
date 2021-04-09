@@ -11,8 +11,11 @@ header:
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
         <p>
-  <dd><font size="3">Lee, W., McNeely, C., Alemu, B., Rosenbaum, J. & Renner, L. M. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1760976" target="_blank" style="color:#344c63">Can Court Diversion Improve School Attendance among Elementary Students? Evidence from Five School Districts</a> Journal of Research on Educational Effectiveness </font></dd> 
+  <dd><font size="3">McNeely, C., B. Alemu., W, Lee. & West, I. (2021) <a href="https://journals.sagepub.com/doi/full/10.1177/23328584211003132" target="_blank" style="color:#344c63">Exploring an Unexamined Source of Racial Disparities in Juvenile Court Involvement: Unexcused Absenteeism Policies in U.S. Schools</a> 
+AERA Open </font></dd> 
 
+        <p>
+  <dd><font size="3">Lee, W., C. McNeely., B. Alemu., J. Rosenbaum. & L. Renner. (2020) <a href="https://www.tandfonline.com/doi/full/10.1080/19345747.2020.1760976" target="_blank" style="color:#344c63">Can Court Diversion Improve School Attendance among Elementary Students? Evidence from Five School Districts</a> Journal of Research on Educational Effectiveness </font></dd> 
 
   <p>
   <dd><font size="3">McNeely. C, W. Lee., J. Rosenbaum., B. Alemu & Renner. L. (2019) <a href="https://link.springer.com/article/10.1007/s11121-019-01027-z" target="_blank" style="color:#344c63">Long-Term Effects of Truancy Diversion on School Attendance: A Quasi-Experimental Study with Linked Administrative Data.</a> Prevention Science 20(7):996-1008 </font>
