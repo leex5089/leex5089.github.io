@@ -8,6 +8,8 @@ main:
     url: /_pages/Data/ 
   - title: "Map"
     url: /_pages/Map/ca_housing.html   
+    url: /_pages/Map/childcareaccess_map.html   
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
