@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<title>Style circles with a data-driven property</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css' rel='stylesheet' />
+<style>
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+.quakeInfo {
+  position: absolute;
+  font-family: sans-serif;
+  margin-top: 5px;
+  margin-left: 5px;
+  padding: 5px;
+  width: 25%;
+  border: 2px solid black;
+  font-size: 18px;
+  color: #000000;
+  background-color: rgba(240, 255, 255, 0.8);
+  border-radius: 1px;
+}
+</style>
+</head>
+<body>
+ 
+<div id='map'></div> 
+ <div class='quakeInfo'>
+ <div><strong><font size="3.5">Child Care Access</font></strong>  </div>
+          <div><strong>County:</strong> <span id='county'></span></div>
+     <div><strong>Economic Development Region:</strong> <span id='ed_region'></span></div>
+  <div><strong>District #:</strong> <span id='district'></span></div>
+  <div><strong>School District:</strong> <span id='school_dis'></span></div>
+  <div><strong>Nearby.Slots:</strong> <span id='adj_supply'></span></div>
+  <div><strong>Nearby.Slots.CCC:</strong> <span id='adj_supp_1'></span></div>
+  <div><strong>Nearby.Slots.FCC:</strong> <span id='adj_supp_2'></span></div>
+   <div><strong>Nearby.Slots.Public:</strong> <span id='adj_supp_3'></span></div>
+ 
+  <div><strong>Highly.Rated.Share:</strong> <span id='s_adj_supp'></span></div>
+   <div><strong>Total Cost$:</strong> <span id='totcost_an'></span></div>
+  <div><strong><font size="1.5">Data: Provider data from Jan 2022 NACCRRAware; Synthetic Families from 2010 Census & 2011-2015 American Community Survey.</font></strong>  </div>
+
+</div>
+<script>                 
+mapboxgl.accessToken = 'pk.eyJ1Ijoid29ubGVlIiwiYSI6ImNqYjY0bHZlczBvMnAzMm16OTlyYWFzYnYifQ.yaLx92dXVMk1NKp5Fp7HUg';
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/dark-v9',
+zoom: 10,
+
+minZoom: 6,
+center: [-93.26559008925989, 44.978186407024694]
+});  
+ var hoveredStateId =  null;
+map.on('load', function () {
+ 
+/* Sample feature from the `examples.8fgz4egr` tileset:
+{
+"type": "Feature",
+"properties": {
+"ethnicity": "White"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [ -122.447303, 37.753574 ]
+}
+}
+*/
+map.addLayer({
+'id': 'access2022-drr6r7',
+'type': 'circle',
+'source': {
+type: 'vector',
+url: 'mapbox://wonlee.7p7kiuro'
+},
+'source-layer': 'access2022-drr6r7',
+   "type": "circle",
+   'paint': {
+// Make circles larger as the user zooms from z12 to z22.
+'circle-radius': {
+'base': 1.75,
+'stops': [
+[6, 2],
+[22, 180]
+]
+},
+
+'circle-color': [
+'interpolate',
+['linear'],
+['get', 'adj_supply'],
+.2822826, '#ff0000',
+.454258, '#ff8000',
+.6167691, '#808080',
+.845208, '#007fff',
+10.34483, '#0000ff', 
+],
+"circle-opacity": ["case",
+["boolean", ["feature-state", "hover"], false],
+0.2,
+0.6
+
+
+]
+}
+});
+// When the user moves their mouse over the state-fill layer, we'll update the
+// feature state for the feature under the mouse.
+ 
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('county').innerHTML = ZCTA5CE10[0].properties.county ;
+    } else {
+        document.getElemnentById('county').innerHTML ='county';
+    }
+});
+
+
+
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('ed_region').innerHTML = ZCTA5CE10[0].properties.ed_region ;
+    } else {
+        document.getElemnentById('ed_region').innerHTML ='ed_region';
+    }
+});
+
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('district').innerHTML = ZCTA5CE10[0].properties.district ;
+    } else {
+        document.getElemnentById('district').innerHTML ='district';
+    }
+});
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('school_dis').innerHTML = ZCTA5CE10[0].properties.school_dis ;
+    } else {
+        document.getElemnentById('school_dis').innerHTML ='school_dis';
+    }
+});
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('adj_supply').innerHTML = ZCTA5CE10[0].properties.adj_supply.toFixed(2) ;
+    } else {
+        document.getElemnentById('adj_supply').innerHTML ='adj_supply';
+    }
+});
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('adj_supp_1').innerHTML = ZCTA5CE10[0].properties.adj_supp_1.toFixed(2) ;
+    } else {
+        document.getElemnentById('adj_supp_1').innerHTML ='adj_supp_1';
+    }
+});
+
+
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('adj_supp_2').innerHTML = ZCTA5CE10[0].properties.adj_supp_2.toFixed(2) ;
+    } else {
+        document.getElemnentById('adj_supp_2').innerHTML ='adj_supp_2';
+    }
+});
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('adj_supp_3').innerHTML = ZCTA5CE10[0].properties.adj_supp_3.toFixed(2) ;
+    } else {
+        document.getElemnentById('adj_supp_3').innerHTML ='adj_supp_3';
+    }
+});
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('s_adj_supp').innerHTML = ZCTA5CE10[0].properties.s_adj_supp.toFixed(2) ;
+    } else {
+        document.getElemnentById('s_adj_supp').innerHTML ='s_adj_supp';
+    }
+});
+map.on('mousemove',function(e){
+    var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
+        layers: ['access2022-drr6r7']
+    });
+    if (ZCTA5CE10.length >0) {
+        document.getElementById('totcost_an').innerHTML = ZCTA5CE10[0].properties.totcost_an.toFixed(0) ;
+    } else {
+        document.getElemnentById('totcost_an').innerHTML ='totcost_an';
+    }
+});
+
+
+});
+
+
+</script>
+ 
+</body>
+</html> 
