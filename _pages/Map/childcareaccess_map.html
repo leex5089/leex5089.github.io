@@ -41,7 +41,7 @@ body { margin:0; padding:0; }
  
   <div><strong>Highly.Rated.Share:</strong> <span id='s_adj_supp'></span></div>
    <div><strong>Total Cost$:</strong> <span id='totcost_an'></span></div>
-  <div><strong><font size="1.5">Data: Providers from 2020 NACCRRAware; Synthetic Families from 2010 Census & 2011-2015 American Community Survey.</font></strong>  </div>
+  <div><strong><font size="1.5">Data: Provider data from Jan 2022 NACCRRAware; Synthetic Families from 2010 Census & 2011-2015 American Community Survey.</font></strong>  </div>
 
 </div>
 <script>                 
@@ -70,13 +70,13 @@ map.on('load', function () {
 }
 */
 map.addLayer({
-'id': 'childcareaccessorg-498yfz',
+'id': 'access2022-drr6r7',
 'type': 'circle',
 'source': {
 type: 'vector',
-url: 'mapbox://wonlee.dqtfiaik'
+url: 'mapbox://wonlee.7p7kiuro'
 },
-'source-layer': 'childcareaccessorg-498yfz',
+'source-layer': 'access2022-drr6r7',
    "type": "circle",
    'paint': {
 // Make circles larger as the user zooms from z12 to z22.
@@ -112,7 +112,7 @@ url: 'mapbox://wonlee.dqtfiaik'
  
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('county').innerHTML = ZCTA5CE10[0].properties.county ;
@@ -126,7 +126,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('ed_region').innerHTML = ZCTA5CE10[0].properties.ed_region ;
@@ -138,7 +138,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('district').innerHTML = ZCTA5CE10[0].properties.district ;
@@ -149,7 +149,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('school_dis').innerHTML = ZCTA5CE10[0].properties.school_dis ;
@@ -160,7 +160,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('adj_supply').innerHTML = ZCTA5CE10[0].properties.adj_supply.toFixed(2) ;
@@ -171,7 +171,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('adj_supp_1').innerHTML = ZCTA5CE10[0].properties.adj_supp_1.toFixed(2) ;
@@ -183,7 +183,7 @@ map.on('mousemove',function(e){
 
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('adj_supp_2').innerHTML = ZCTA5CE10[0].properties.adj_supp_2.toFixed(2) ;
@@ -193,7 +193,7 @@ map.on('mousemove',function(e){
 });
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('adj_supp_3').innerHTML = ZCTA5CE10[0].properties.adj_supp_3.toFixed(2) ;
@@ -203,7 +203,7 @@ map.on('mousemove',function(e){
 });
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('s_adj_supp').innerHTML = ZCTA5CE10[0].properties.s_adj_supp.toFixed(2) ;
@@ -213,7 +213,7 @@ map.on('mousemove',function(e){
 });
 map.on('mousemove',function(e){
     var ZCTA5CE10=map.queryRenderedFeatures(e.point, {
-        layers: ['childcareaccessorg-498yfz']
+        layers: ['access2022-drr6r7']
     });
     if (ZCTA5CE10.length >0) {
         document.getElementById('totcost_an').innerHTML = ZCTA5CE10[0].properties.totcost_an.toFixed(0) ;
