@@ -10,6 +10,28 @@ header:
 
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
+
+
+<p>
+  <dd><font size="3">Raymond, M., J. Woodworth., W. Lee & S. Bachofer. (2023) <a href="https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf" target="_blank" style="color:#344c63">As a Matter of Fact: The National Charter School Study III</a>  Center for Research on Education Outcomes, Stanford University [<a href="https://www.wsj.com/articles/stanford-credo-charter-schools-study-student-performance-traditional-schools-education-math-reading-1d416fe5"  target="_blank" style="font-size:12px; color:#973333">WSJ</a>], [<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/can-data-change-the-debate-on-charter-schools/13123885-7ef9-4124-8eed-634031efa5cb"  target="_blank" style="font-size:12px; color:#973333">WSJ Potomac Watch</a>], [<a href="https://nypost.com/2023/06/11/charter-schools-outperform-public-schools-in-us-with-ny-results-among-the-best-in-the-country-study/"  target="_blank" style="font-size:12px; color:#973333">New York Post</a>], [<a href="https://www.edweek.org/policy-politics/charter-schools-are-outperforming-traditional-public-schools-6-takeaways-from-a-new-study/2023/06"  target="_blank" style="font-size:12px; color:#973333">Education Week</a>], [<a href="https://www.the74million.org/article/national-study-of-1-8-million-charter-students-shows-charter-pupils-outperform-peers-at-traditional-public-schools/"  target="_blank" style="font-size:12px; color:#973333">74million</a>], [<a href="https://nymag.com/intelligencer/2023/06/charter-schools-evidence-study-national-better-credo-stanford.html"  target="_blank" style="font-size:12px; color:#973333">New York Magazine</a>] </font>
+
+
+<ul>
+  <li style="font-size:14px">  <a href="http://childcareaccess.org/"  target="_blank" style="color:#344c63">ChildCareAccess.Org</a>  won 2019 U-Spatial Mapping Prize for Best Use of Maps, <a href="https://research.umn.edu/units/uspatial/" target="_blank" style="color:#344c63">U-Spatial</a> at the University of Minnesota.</li>
+    <li style="font-size:14px">  <a href="https://github.com/leex5089/childcareaccess"  target="_blank" style="color:#3b5273">Stata code</a> </li> 
+</ul>
+
+</dd>
+
+
+
+
+
+
+
+
+
+
         <p>
   <dd><font size="3">McNeely, C., B. Alemu., W, Lee. & West, I. (2021) <a href="https://journals.sagepub.com/doi/full/10.1177/23328584211003132" target="_blank" style="color:#344c63">Exploring an Unexamined Source of Racial Disparities in Juvenile Court Involvement: Unexcused Absenteeism Policies in U.S. Schools</a> 
 AERA Open 7(1):1–17 </font></dd> 
@@ -28,12 +50,23 @@ AERA Open 7(1):1–17 </font></dd>
   <dd><font size="3">Davis, E., W. Lee & A. Sojourner. (2019) <a href="https://www.sciencedirect.com/science/article/pii/S0885200618300851" target="_blank" style="color:#344c63">Family-Centered Measures of Access to Early Care and Education</a>  Early Childhood Research Quarterly 47:472-486 [<a href="http://ftp.iza.org/dp11396.pdf"  target="_blank" style="font-size:12px; color:#973333">IZA Working paper version</a>], [<a href="https://twin-cities.umn.edu/news-events/new-university-minnesota-tool-reveals-child-care-access-challenges-across-state"  target="_blank" style="font-size:12px; color:#973333">UMN News</a>], [<a href="https://www.crowrivermedia.com/independentreview/news/education/litchfield-child-care-access-below-state-average-report-says/article_48b34d7c-30f1-57fa-952e-d1c9f6e7924a.html"  target="_blank" style="font-size:12px; color:#973333">Litchfield Independent Review</a>], [<a href="http://www.nujournal.com/news/local-news/2019/03/08/um-tool-shows-child-care-access-challenges/"  target="_blank" style="font-size:12px; color:#973333">The Journal</a>], [<a href="https://www.messagemedia.co/aitkin/news/local/revealing-local-child-care-access-challenges/article_c20d6c8a-4531-11e9-8c62-2f8e5d21f3d8.html"  target="_blank" style="font-size:12px; color:#973333">Aitkin Independent Age</a>], [<a href="http://www.southernminn.com/article_65842050-d32e-53f9-ba23-46065228926b.html"  target="_blank" style="font-size:12px; color:#973333">Southerminn</a>], [<a href="https://www.mndaily.com/article/2019/04/n-umn-researchers-create-child-care-access-tool"  target="_blank" style="font-size:12px; color:#973333">Minnesota Daily</a>], [<a href="https://www.washingtonpost.com/nation/2020/06/22/middle-income-rural-families-disproportionately-grapple-with-child-care-deserts-new-analysis-shows"  target="_blank" style="font-size:12px; color:#973333">Washington Post</a>], [<a href="https://www.duluthnewstribune.com/business/healthcare/6560965-University-of-Minnesota-child-care-research-finds-urban-rural-divide-including-in-Northland"  target="_blank" style="font-size:12px; color:#973333">Duluth News Tribune</a>]</font>
 
 
-      <ul>
+<ul>
   <li style="font-size:14px">  <a href="http://childcareaccess.org/"  target="_blank" style="color:#344c63">ChildCareAccess.Org</a>  won 2019 U-Spatial Mapping Prize for Best Use of Maps, <a href="https://research.umn.edu/units/uspatial/" target="_blank" style="color:#344c63">U-Spatial</a> at the University of Minnesota.</li>
     <li style="font-size:14px">  <a href="https://github.com/leex5089/childcareaccess"  target="_blank" style="color:#3b5273">Stata code</a> </li> 
 </ul>
 
 </dd>
+
+
+
+
+
+
+
+
+
+
+
 <p>                               
   <dd><font size="3">Myers. S & W. Lee. (2018) <a href="https://link.springer.com/content/pdf/10.1007%2Fs41996-018-0018-4.pdf" target="_blank" style="color:#344c63">Racial Disparities, Homeownership, and Mortgage Lending
 in the Post-Great Recession Period: the Case of the Minneapolis-St. Paul
@@ -63,7 +96,9 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 <p>                            
 
   <dt><b><font size="4">Works in Progress</font></b></dt>
-
+    <p>
+  <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
+   <p>  
     <p>
   <dd><font size="3">Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market  [<a href="https://leex5089.github.io/revealjs_slide/APPAM2019_DID_slide_v2.html"  target="_blank" style="font-size:14px; color:#973333">2019 APPAM Slide</a>]</font></dd>
    <p>  
@@ -73,9 +108,6 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
    <p>  
   <p>
   <dd><font size="3">Lee. W. Effect of single-sex schools on student outcomes: Quasi-experimental evidence from Seoul.</font></dd>
-   <p>  
-  <p>
-  <dd><font size="3">Alemu, B., McNeely, C., Lee. W. Is being Black unexcused? The relationship between policies guiding the coding of absences and racial disparities in unexcused absences. [<a href="https://drive.google.com/file/d/1OndPTGq2febP_ahUrsodBIX6jRHdBl4i/view"  target="_blank" style="font-size:14px; color:#973333">Draft</a>]</font></dd>
    <p>  
  
 
