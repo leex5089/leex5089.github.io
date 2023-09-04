@@ -8,7 +8,7 @@ header:
 ---
    
   <dt><b><font size="4">Works in Progress</font></b></dt>
-    <p>
+
   <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
    <p>  
     <p>
@@ -30,6 +30,7 @@ header:
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
 
+   <p>  
 
   
 
@@ -59,15 +60,6 @@ AERA Open 7(1):1–17 </font></dd>
 </dd>
 
 
-
-
-
-
-
-
-
-
-
 <p>                               
   <dd><font size="3">Myers. S & W. Lee. (2018) <a href="https://link.springer.com/content/pdf/10.1007%2Fs41996-018-0018-4.pdf" target="_blank" style="color:#344c63">Racial Disparities, Homeownership, and Mortgage Lending
 in the Post-Great Recession Period: the Case of the Minneapolis-St. Paul
@@ -88,7 +80,6 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 
    <p>
  
-</dd>
    <p>
   <dd><font size="3">Raymond, M. E., & Lee, W. F. <a href="https://credo.stanford.edu/wp-content/uploads/2023/04/CityStudy_Cohort2_MetaAnalysis_FINAL.pdf" target="_blank" style="color:#344c63">City Studies: Project Meta-Analysis - Cohort 2 Cities. </a>  Center for Research on Education Outcomes at Stanford University 2023   </font></dd>
 <p>      
