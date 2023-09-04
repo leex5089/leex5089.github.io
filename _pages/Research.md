@@ -7,17 +7,32 @@ header:
 	image:  "/images/screenshot.png"
 ---
    
-
+  <dt><b><font size="4">Works in Progress</font></b></dt>
+    <p>
+  <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
+   <p>  
+    <p>
+  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Revise & Resubmit at Journal of Human Capital</font></dd>
+   <p>  
+    <p>
+  <dd><font size="3">Davis, E., F. Rodrigo., W. Lee. & A. Sojourner. Equity in Access based on Family-Centered Measures of Quantity, Cost and Quality. Under Review at Early Childhood Research Quarterly</font></dd>
+   <p>   
+     <p>
+  <dd><font size="3">Song, I., S. Ha., W. Lee. & M. Kim. An Examination of the Impact of Health Insurance Enrollment in Reducing Racial Health Disparities. Conditional Acceptance at Journal of Economics and Finance</font></dd>
+   <p>      
+     <p>
+  <dd><font size="3">Toney, J., W. Lee. & S. Myers. The Long-Run Effects of Historic Red-Lining on Contemporary Racial Disparities in Home Mortgage Loan Denial Rates, Grant Proposal Under Review at Russell Sage Foundation</font></dd>
+   <p>      
+    
+  <dd><font size="3">Lee. W. Effect of Parental Preference for Child Sex on Child Outcomes: Evidence from Korea. [<a href="https://leex5089.github.io/images/SREE2019.pdf"  target="_blank" style="font-size:14px; color:#973333">2019 SREE Poster</a>]</font></dd>
+   <p>  
+   
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
 
 
 <p>
-  <dd><font size="3">Raymond, M., J. Woodworth., W. Lee & S. Bachofer. (2023) <a href="https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf" target="_blank" style="color:#344c63">As a Matter of Fact: The National Charter School Study III</a>  Center for Research on Education Outcomes, Stanford University [<a href="https://www.wsj.com/articles/stanford-credo-charter-schools-study-student-performance-traditional-schools-education-math-reading-1d416fe5"  target="_blank" style="font-size:12px; color:#973333">WSJ</a>], [<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/can-data-change-the-debate-on-charter-schools/13123885-7ef9-4124-8eed-634031efa5cb"  target="_blank" style="font-size:12px; color:#973333">WSJ Potomac Watch</a>], [<a href="https://nypost.com/2023/06/11/charter-schools-outperform-public-schools-in-us-with-ny-results-among-the-best-in-the-country-study/"  target="_blank" style="font-size:12px; color:#973333">New York Post</a>], [<a href="https://www.edweek.org/policy-politics/charter-schools-are-outperforming-traditional-public-schools-6-takeaways-from-a-new-study/2023/06"  target="_blank" style="font-size:12px; color:#973333">Education Week</a>], [<a href="https://www.the74million.org/article/national-study-of-1-8-million-charter-students-shows-charter-pupils-outperform-peers-at-traditional-public-schools/"  target="_blank" style="font-size:12px; color:#973333">74million</a>], [<a href="https://nymag.com/intelligencer/2023/06/charter-schools-evidence-study-national-better-credo-stanford.html"  target="_blank" style="font-size:12px; color:#973333">New York Magazine</a>] </font>
-
-
-
-</dd>
+  
 
 
 
@@ -78,7 +93,13 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
   <p> 
 <dt><b><font size="4">Policy Reports</font></b></dt>
 
+   <p>
+<dd><font size="3">Raymond, M., J. Woodworth., W. Lee & S. Bachofer. (2023) <a href="https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf" target="_blank" style="color:#344c63">As a Matter of Fact: The National Charter School Study III</a>  Center for Research on Education Outcomes, Stanford University [<a href="https://www.wsj.com/articles/stanford-credo-charter-schools-study-student-performance-traditional-schools-education-math-reading-1d416fe5"  target="_blank" style="font-size:12px; color:#973333">WSJ</a>], [<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/can-data-change-the-debate-on-charter-schools/13123885-7ef9-4124-8eed-634031efa5cb"  target="_blank" style="font-size:12px; color:#973333">WSJ Potomac Watch</a>], [<a href="https://nypost.com/2023/06/11/charter-schools-outperform-public-schools-in-us-with-ny-results-among-the-best-in-the-country-study/"  target="_blank" style="font-size:12px; color:#973333">New York Post</a>], [<a href="https://www.edweek.org/policy-politics/charter-schools-are-outperforming-traditional-public-schools-6-takeaways-from-a-new-study/2023/06"  target="_blank" style="font-size:12px; color:#973333">Education Week</a>], [<a href="https://www.the74million.org/article/national-study-of-1-8-million-charter-students-shows-charter-pupils-outperform-peers-at-traditional-public-schools/"  target="_blank" style="font-size:12px; color:#973333">74million</a>], [<a href="https://nymag.com/intelligencer/2023/06/charter-schools-evidence-study-national-better-credo-stanford.html"  target="_blank" style="font-size:12px; color:#973333">New York Magazine</a>] </font>
 
+   <p>
+
+
+</dd>
    <p>
   <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#344c63">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>  Center for American Progress, Washington D.C. 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#973333">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#973333">childcaredeserts.org</a>]  </font></dd>
 <p>       
@@ -91,20 +112,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
   <dd><font size="3">Myers. S., W. Lee & J. Toney. <a href="https://drive.google.com/open?id=0B2L0_Tafp1oBRVN6dHdCOTBjTTg" target="_blank" style="color:#344c63"> Responsible Banking in the Twin Cities</a>  Roy Wilkins Center for Justice and Inequality, University of Minnesota, St. Paul, MN. August 2015 [<a href="http://www.startribune.com/st-paul-city-council-looks-to-banks-to-help-reduce-racial-disparities/412483143/" target="_blank" style="font-size:12px; color:#973333">StarTribune</a>], [<a href="https://www.kare11.com/article/news/local/study-finds-lending-discrimination-in-twin-cities/105436195" target="_blank" style="font-size:12px; color:#973333">KARE11</a>]</font> </dd>
 <p>                            
 
-  <dt><b><font size="4">Works in Progress</font></b></dt>
-    <p>
-  <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
-   <p>  
-    <p>
-  <dd><font size="3">Lee, W., A. Sojourner & E. Davis. Impacts of early childhood care subsidy designs on the care services market  [<a href="https://leex5089.github.io/revealjs_slide/APPAM2019_DID_slide_v2.html"  target="_blank" style="font-size:14px; color:#973333">2019 APPAM Slide</a>]</font></dd>
-   <p>  
 
-    <p>
-  <dd><font size="3">Lee. W. Effect of Parental Preference for Child Sex on Child Outcomes: Evidence from Korea. [<a href="https://leex5089.github.io/images/SREE2019.pdf"  target="_blank" style="font-size:14px; color:#973333">2019 SREE Poster</a>]</font></dd>
-   <p>  
-  <p>
-  <dd><font size="3">Lee. W. Effect of single-sex schools on student outcomes: Quasi-experimental evidence from Seoul.</font></dd>
-   <p>  
  
 
   <dd>   
