@@ -87,9 +87,24 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 <dd><font size="3">Raymond, M., J. Woodworth., W. Lee & S. Bachofer. (2023) <a href="https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf" target="_blank" style="color:#344c63">As a Matter of Fact: The National Charter School Study III</a>  Center for Research on Education Outcomes, Stanford University [<a href="https://www.wsj.com/articles/stanford-credo-charter-schools-study-student-performance-traditional-schools-education-math-reading-1d416fe5"  target="_blank" style="font-size:12px; color:#973333">WSJ</a>], [<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/can-data-change-the-debate-on-charter-schools/13123885-7ef9-4124-8eed-634031efa5cb"  target="_blank" style="font-size:12px; color:#973333">WSJ Potomac Watch</a>], [<a href="https://nypost.com/2023/06/11/charter-schools-outperform-public-schools-in-us-with-ny-results-among-the-best-in-the-country-study/"  target="_blank" style="font-size:12px; color:#973333">New York Post</a>], [<a href="https://www.edweek.org/policy-politics/charter-schools-are-outperforming-traditional-public-schools-6-takeaways-from-a-new-study/2023/06"  target="_blank" style="font-size:12px; color:#973333">Education Week</a>], [<a href="https://www.the74million.org/article/national-study-of-1-8-million-charter-students-shows-charter-pupils-outperform-peers-at-traditional-public-schools/"  target="_blank" style="font-size:12px; color:#973333">74million</a>], [<a href="https://nymag.com/intelligencer/2023/06/charter-schools-evidence-study-national-better-credo-stanford.html"  target="_blank" style="font-size:12px; color:#973333">New York Magazine</a>] </font>
 
    <p>
-
-
+ 
 </dd>
+   <p>
+  <dd><font size="3">Raymond, M. E., & Lee, W. F. <a href="https://credo.stanford.edu/wp-content/uploads/2023/04/CityStudy_Cohort2_MetaAnalysis_FINAL.pdf" target="_blank" style="color:#344c63">City Studies: Project Meta-Analysis - Cohort 2 Cities. </a>  Center for Research on Education Outcomes at Stanford University 2023   </font></dd>
+<p>      
+   <p>
+  <dd><font size="3">Raymond, M. E., & Lee, W. F. <a href="https://credo.stanford.edu/wp-content/uploads/2023/04/CityStudy_Cohort1_MetaAnalysis_Final_20221114.pdf" target="_blank" style="color:#344c63">City Studies: Project Meta-Analysis - Cohort 1 Cities. </a>  Center for Research on Education Outcomes at Stanford University 2022   </font></dd>
+<p>      
+     <p>
+  <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#344c63">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>  Center for American Progress, Washington D.C. 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#973333">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#973333">childcaredeserts.org</a>]  </font></dd>
+<p>      
+
+
+   <p>
+  <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#344c63">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>  Center for American Progress, Washington D.C. 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#973333">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#973333">childcaredeserts.org</a>]  </font></dd>
+<p>      
+
+
    <p>
   <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#344c63">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>  Center for American Progress, Washington D.C. 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#973333">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#973333">childcaredeserts.org</a>]  </font></dd>
 <p>       
