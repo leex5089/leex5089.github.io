@@ -12,8 +12,8 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "air"
-# Google Analytics 
+minimal_mistakes_skin    : "default" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "air"
+# Google Analytics
 analytics:
             provider: "google-universal"
             google:
