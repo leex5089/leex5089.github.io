@@ -29,8 +29,8 @@ header:
  
   <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font></dd> 
   <p> 
-    
-  <dd><font size="3">Song, I., S. Ha., W. Lee. & M. Kim. An Examination of the Impact of Health Insurance Enrollment in Reducing Racial Health Disparities. Conditional Forthcoming at Journal of Economics and Finance</font></dd> 
+   <dd><font size="3">Song, I., S. Ha., W. Lee. & M. Kim. (2023) <a href="https://link.springer.com/article/10.1007/s12197-023-09650-x#article-info" target="_blank" style="color:#60ade0">An Examination of the Impact of Health Insurance Enrollment in Reducing Racial Health Disparities</a> 
+Journal of Economics and Finance </font></dd> 
    <p> 
 
   <dd><font size="3">McNeely, C., B. Alemu., W, Lee. & West, I. (2021) <a href="https://journals.sagepub.com/doi/full/10.1177/23328584211003132" target="_blank" style="color:#60ade0">Exploring an Unexamined Source of Racial Disparities in Juvenile Court Involvement: Unexcused Absenteeism Policies in U.S. Schools</a> 
