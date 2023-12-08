@@ -12,8 +12,7 @@ header:
 
   <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
    <p>  
-
-    <p>
+ 
   <dd><font size="3">Davis, E., F. Rodrigo., W. Lee. & A. Sojourner. Equity in Access based on Family-Centered Measures of Quantity, Cost and Quality. Under Review at Early Childhood Research Quarterly</font></dd>
    <p>   
  
@@ -29,9 +28,10 @@ header:
    <p>  
  
   <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font></dd> 
-
+  <p> 
+    
   <dd><font size="3">Song, I., S. Ha., W. Lee. & M. Kim. An Examination of the Impact of Health Insurance Enrollment in Reducing Racial Health Disparities. Conditional Forthcoming at Journal of Economics and Finance</font></dd> 
- 
+   <p> 
 
   <dd><font size="3">McNeely, C., B. Alemu., W, Lee. & West, I. (2021) <a href="https://journals.sagepub.com/doi/full/10.1177/23328584211003132" target="_blank" style="color:#60ade0">Exploring an Unexamined Source of Racial Disparities in Juvenile Court Involvement: Unexcused Absenteeism Policies in U.S. Schools</a> 
 AERA Open 7(1):1–17 </font></dd> 
