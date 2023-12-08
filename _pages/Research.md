@@ -75,11 +75,10 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
 
 
 <p>
-<dd><font size="3">Lee, W., J. Woodworth., & G. Lee. (2023)<a href="https://ncss3.stanford.edu/wp-content/uploads/2023/11/CREDO_PolicyBrief-Nov-R3.pdf" target="_blank" style="color:#60ade0">Bridging the Gap:
-Identifying Gap-Busting Charter Schools for Educational Equity. </a>Center for Research on Education Outcomes at Stanford University 2023   </font></dd>
+<dd><font size="3">Lee, W., J. Woodworth., & G. Lee. (2023)<a href="https://ncss3.stanford.edu/wp-content/uploads/2023/11/CREDO_PolicyBrief-Nov-R3.pdf" target="_blank" style="color:#60ade0"> Bridging the Gap:
+Identifying Gap-Busting Charter Schools for Educational Equity. </a>Center for Research on Education Outcomes at Stanford University</font></dd>
 <p>       
 <dd><font size="3">Raymond, M., J. Woodworth., W. Lee & S. Bachofer. (2023) <a href="https://ncss3.stanford.edu/wp-content/uploads/2023/06/Credo-NCSS3-Report.pdf" target="_blank" style="color:#60ade0">As a Matter of Fact: The National Charter School Study III</a>  Center for Research on Education Outcomes, Stanford University [<a href="https://www.wsj.com/articles/stanford-credo-charter-schools-study-student-performance-traditional-schools-education-math-reading-1d416fe5"  target="_blank" style="font-size:12px; color:#6875e8">WSJ</a>], [<a href="https://www.wsj.com/podcasts/opinion-potomac-watch/can-data-change-the-debate-on-charter-schools/13123885-7ef9-4124-8eed-634031efa5cb"  target="_blank" style="font-size:12px; color:#6875e8">WSJ Potomac Watch</a>], [<a href="https://nypost.com/2023/06/11/charter-schools-outperform-public-schools-in-us-with-ny-results-among-the-best-in-the-country-study/"  target="_blank" style="font-size:12px; color:#6875e8">New York Post</a>], [<a href="https://www.edweek.org/policy-politics/charter-schools-are-outperforming-traditional-public-schools-6-takeaways-from-a-new-study/2023/06"  target="_blank" style="font-size:12px; color:#6875e8">Education Week</a>], [<a href="https://www.the74million.org/article/national-study-of-1-8-million-charter-students-shows-charter-pupils-outperform-peers-at-traditional-public-schools/"  target="_blank" style="font-size:12px; color:#6875e8">74million</a>], [<a href="https://nymag.com/intelligencer/2023/06/charter-schools-evidence-study-national-better-credo-stanford.html"  target="_blank" style="font-size:12px; color:#6875e8">New York Magazine</a>] </font>
-
    <p> 
   <dd><font size="3">Raymond, M. E., & Lee, W. F. <a href="https://credo.stanford.edu/wp-content/uploads/2023/04/CityStudy_Cohort2_MetaAnalysis_FINAL.pdf" target="_blank" style="color:#60ade0">City Studies: Project Meta-Analysis - Cohort 2 Cities. </a>  Center for Research on Education Outcomes at Stanford University 2023   </font></dd>
 <p>       
@@ -87,14 +86,10 @@ Identifying Gap-Busting Charter Schools for Educational Equity. </a>Center for R
 <p>       
   <dd><font size="3">Malik, R., Hamm, K., Lee, W., Davis, E & Sojourner, A. <a href="https://www.americanprogress.org/issues/early-childhood/reports/2020/06/22/486433/coronavirus-will-make-child-care-deserts-worse-exacerbate-inequality/" target="_blank" style="color:#60ade0">The Coronavirus Will Make Child Care Deserts Worse and Exacerbate Inequality</a>  Center for American Progress, Washington D.C. 2020 [<a href="https://cdn.americanprogress.org/content/uploads/2020/06/18081719/Child-Care-Deserts-Methodology.pdf"  target="_blank" style="font-size:12px; color:#6875e8">Technical Appendix</a>], [<a href="https://childcaredeserts.org"  target="_blank" style="font-size:12px; color:#6875e8">childcaredeserts.org</a>]  </font></dd>
 <p>      
-
-  
   <dd><font size="3">McNeely, C., Lee, W. F., Alemu, B., Rosenbaum, J. & Renner, L. M. <a href="https://cascw.umn.edu/wp-content/uploads/2019/02/ML-Brief-37_WEB_508.pdf" target="_blank" style="color:#60ade0">Evaluation of Ramsey County’s Truancy Intervention Programs: Policy Implications for Court Diversion Programs</a>   (Minn-LInK brief No. 37). Center for Advanced Studies in Child Welfare, University of Minnesota, St. Paul, MN. Fall 2018</font></dd>
 <p>       
   <dd><font size="3">Myers. S., W. Lee & J. Toney. <a href="https://drive.google.com/open?id=0B2L0_Tafp1oBRVN6dHdCOTBjTTg" target="_blank" style="color:#60ade0"> Responsible Banking in the Twin Cities</a>  Roy Wilkins Center for Justice and Inequality, University of Minnesota, St. Paul, MN. August 2015 [<a href="http://www.startribune.com/st-paul-city-council-looks-to-banks-to-help-reduce-racial-disparities/412483143/" target="_blank" style="font-size:12px; color:#6875e8">StarTribune</a>], [<a href="https://www.kare11.com/article/news/local/study-finds-lending-discrimination-in-twin-cities/105436195" target="_blank" style="font-size:12px; color:#6875e8">KARE11</a>]</font> </dd>
 <p>                            
- 
-
   <dd>   
   <ul style="list-style-type:circle">
   <li><a href="https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en" target="_blank" style="color:#60ade0">Google Scholar</a></li>
