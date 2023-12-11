@@ -12,10 +12,6 @@ header:
 
   <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
    <p>  
- 
-  <dd><font size="3">Davis, E., F. Rodrigo., W. Lee. & A. Sojourner. Equity in Access based on Family-Centered Measures of Quantity, Cost and Quality. Under Review at Early Childhood Research Quarterly</font></dd>
-   <p>   
- 
   <dd><font size="3">Toney, J., W. Lee. & S. Myers. The Long-Run Effects of Historic Red-Lining on Contemporary Racial Disparities in Home Mortgage Loan Denial Rates</font></dd>
    <p>      
 
