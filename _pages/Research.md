@@ -23,8 +23,12 @@ header:
 
    <p>  
  
-  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font></dd> 
+  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font> [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1413&context=up_workingpapers"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Working paper</a>]</dd> 
   <p> 
+
+
+
+
    <dd><font size="3">Song, I., S. Ha., W. Lee. & M. Kim. (2023) <a href="https://link.springer.com/article/10.1007/s12197-023-09650-x#article-info" target="_blank" style="color:#60ade0">An Examination of the Impact of Health Insurance Enrollment in Reducing Racial Health Disparities</a> 
 Journal of Economics and Finance </font></dd> 
    <p> 
@@ -69,7 +73,9 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
   <p> 
 <dt><b><font size="4">Policy Reports</font></b></dt>
 
-
+<dd><font size="3">Lee, W, Sojourner. A., Elizabeth E. D., &  Borowsky J (2024) <a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1064&context=up_policybriefs" target="_blank" style="color:#60ade0">Efects of Subsidies on the Child Care Market: Large Increases in Capacity,
+Small Increases in Price. </a>W.E. Upjohn Institute for Employment Research</font></dd>
+<p> 
 <p>
 <dd><font size="3">Lee, W., J. Woodworth., & G. Lee. (2023) <a href="https://ncss3.stanford.edu/wp-content/uploads/2023/11/CREDO_PolicyBrief-Nov-R3.pdf" target="_blank" style="color:#60ade0">Bridging the Gap:
 Identifying Gap-Busting Charter Schools for Educational Equity. </a>Center for Research on Education Outcomes at Stanford University</font></dd>
