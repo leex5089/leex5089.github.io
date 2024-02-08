@@ -134,9 +134,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-- title: Google Scholar
-  url: "https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en"
-  icon: /images/google-scholar-icon.png
+
 # Reading Files
 include:
   - .htaccess
