@@ -134,7 +134,7 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links:
     - label: "Made Mistakes"
-      icon: "/images/google-scholar-icon.png"
+      icon: "fas fa-fw fa-link"
       url: https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en
 # Reading Files
 include:
