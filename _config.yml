@@ -91,9 +91,7 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 # Social links
 social:
-  - title: google_scholar
-    url: "https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en"
-    icon: /images/google-scholar-icon.png
+ 
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -134,7 +132,10 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  google_scholar   : "https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en"
+  links:
+    - label: "Made Mistakes"
+      icon: "/images/google-scholar-icon.png"
+      url: https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en
 # Reading Files
 include:
   - .htaccess
