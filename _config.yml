@@ -134,7 +134,7 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  google_scholar   : "https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en"
 # Reading Files
 include:
   - .htaccess
