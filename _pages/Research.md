@@ -23,7 +23,7 @@ header:
 
    <p>  
  
-  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font> [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1413&context=up_workingpapers"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Working paper</a>]</dd> 
+  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font> [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1413&context=up_workingpapers"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Working paper</a>], [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1064&context=up_policybriefs"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Brief</a>], [<a href="https://www.upjohn.org/research-highlights/subsidies-can-boost-child-care-availability-minimal-impact-cost"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Research Highlights</a>]</dd> 
   <p> 
 
 
