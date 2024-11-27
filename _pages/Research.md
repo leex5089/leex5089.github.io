@@ -8,22 +8,19 @@ header:
 ---
    
   <dt><b><font size="4">Works in Progress</font></b></dt>
+
+
+
   <p>  
 
-  <dd><font size="3">Goulas, S., W. Lee & R. Megalokonomou. The Impact of Being Recognized as Top Performer on School and Career Outcomes</font></dd>
-   <p>  
-  <dd><font size="3">Toney, J., W. Lee. & S. Myers. The Long-Run Effects of Historic Red-Lining on Contemporary Racial Disparities in Home Mortgage Loan Denial Rates</font></dd>
-   <p>      
+  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky. Effect of Child Care Regulations on Child Care Markets: Evidence from Policy Discontinuity at the Border</font> [<a href="https://leex5089.github.io/revealjs_slide/Stateborder_APPAM_slides_20241122"  target="_blank" style="font-size:12px; color:#6875e8">2024 APPAM Slide</a>]</dd>
 
-  <dd><font size="3">Lee. W. Effect of Parental Preference for Child Sex on Child Outcomes: Evidence from Korea. Under Review</font></dd>
-   <p>  
-   
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
 
    <p>  
  
-  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky . Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets. Forthcoming at Journal of Human Capital</font> [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1413&context=up_workingpapers"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Working paper</a>], [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1064&context=up_policybriefs"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Brief</a>], [<a href="https://www.upjohn.org/research-highlights/subsidies-can-boost-child-care-availability-minimal-impact-cost"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Research Highlights</a>]</dd> 
+  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky. <a href="https://www.journals.uchicago.edu/doi/epdf/10.1086/734085" target="_blank" style="color:#60ade0">Effects of Child Care Vouchers on Price, Quantity, and Provider Turnover in Private Care Markets</a> Forthcoming at Journal of Human Capital</font> [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1413&context=up_workingpapers"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Working paper</a>], [<a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1064&context=up_policybriefs"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Brief</a>], [<a href="https://www.upjohn.org/research-highlights/subsidies-can-boost-child-care-availability-minimal-impact-cost"  target="_blank" style="font-size:12px; color:#6875e8">Upjohn Research Highlights</a>]</dd> 
   <p> 
 
 
