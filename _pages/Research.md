@@ -13,7 +13,7 @@ header:
 
   <p>  
 
-  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky. Effect of Child Care Regulations on Child Care Markets: Evidence from Policy Discontinuity at the Border</font> [<a href="https://leex5089.github.io/revealjs_slide/Stateborder_APPAM_slides_20241122"  target="_blank" style="font-size:12px; color:#6875e8">2024 APPAM Slide</a>]</dd>
+  <dd><font size="3">Lee, W., A. Sojourner., E. Davis. & J. Borowsky. Effect of Child Care Regulations on Child Care Markets: Evidence from Policy Discontinuity at the Border</font> [<a href="https://leex5089.github.io/revealjs_slide/Stateborder_LERA_slides_20250103.html"  target="_blank" style="font-size:12px; color:#6875e8">2025 LERA@AEA Slide</a>], [<a href="https://leex5089.github.io/revealjs_slide/Stateborder_APPAM_slides_20241122"  target="_blank" style="font-size:12px; color:#6875e8">2024 APPAM Slide</a>]</dd>
 
 <dl>
 	<dt><b><font size="4">Publications</font></b></dt>
