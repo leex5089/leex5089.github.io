@@ -70,7 +70,7 @@ Metropolitan Area</a> Journal of Economics, Race, and Policy 1(2):47-59</font></
   <p> 
 <dt><b><font size="4">Policy Reports</font></b></dt>
  <p> 
-<dd><font size="3">Lee, W, Sojourner. A., Elizabeth E. D., &  Borowsky J (2024) <a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1064&context=up_policybriefs" target="_blank" style="color:#60ade0">Efects of Subsidies on the Child Care Market: Large Increases in Capacity,
+<dd><font size="3">Lee, W, Sojourner. A., Elizabeth E. D., &  Borowsky J (2024) <a href="https://research.upjohn.org/cgi/viewcontent.cgi?article=1064&context=up_policybriefs" target="_blank" style="color:#60ade0">Effects of Subsidies on the Child Care Market: Large Increases in Capacity,
 Small Increases in Price. </a>W.E. Upjohn Institute for Employment Research</font></dd>
 <p> 
 <dd><font size="3">Woodworth, J., Raymond, M., & W. Lee. (2024) <a href="https://ncss3.stanford.edu/wp-content/uploads/2024/02/CREDO_PolicyBrief-Feb24.pdf" target="_blank" style="color:#60ade0">A Closer Look: Examining the Impact and Effectiveness of Online Charter Schools. </a>Center for Research on Education Outcomes at Stanford University</font></dd>
@@ -92,7 +92,7 @@ Identifying Gap-Busting Charter Schools for Educational Equity. </a>Center for R
 <p>                            
   <dd>   
   <ul style="list-style-type:circle">
-  <li><a href="https://scholar.google.com/citations?user=MJPMkLAAAAAJ&hl=en" target="_blank" style="color:#60ade0">Google Scholar</a></li>
+  <li><a href="https://scholar.google.com/citations?user=6ezo0KkAAAAJ&hl=en" target="_blank" style="color:#60ade0">Google Scholar</a></li>
   <li><a href="https://www.researchgate.net/profile/Won_Fy_Lee" target="_blank" style="color:#60ade0">ResearchGate</a></li> 
 </ul>
  </dd>
