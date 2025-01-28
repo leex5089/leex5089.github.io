@@ -23,7 +23,10 @@ header:
       style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);">
   </iframe>
 </div>
-
+<!-- Add Childcare Access Map -->
+<div style="display: flex; justify-content: center; margin-bottom: 30px;">
+  <iframe src="/_pages/Map/childcareaccess_map.html" width="920" height="700" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" frameborder="0" allowTransparency="true" scrolling="yes"></iframe>
+</div>
 <!-- Video Gallery -->
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
   <video src="/images/disparity_ratio_mathgap.mp4" width="920" height="700" autoplay loop style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);"></video>
@@ -44,7 +47,3 @@ header:
   <iframe src="/images/wdi_birthrate.html" width="920" height="700" name="targetframe" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" allowTransparency="true" scrolling="yes" frameborder="0" allow="accelerometer; autoplay"></iframe>
 </div>
 
-<!-- Add Childcare Access Map -->
-<div style="display: flex; justify-content: center; margin-bottom: 30px;">
-  <iframe src="/_pages/Map/childcareaccess_map.html" width="920" height="700" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" frameborder="0" allowTransparency="true" scrolling="yes"></iframe>
-</div>

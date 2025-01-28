@@ -7,7 +7,7 @@ main:
   - title: "Data"
     url: /_pages/Data/ 
   - title: "Map"
-    url: /_pages/Map/childcareaccess_map.html   
+  # url: /_pages/Map/childcareaccess_map.html   
   #url: /_pages/Map/ca_housing.html   
 
   # - title: "About"
