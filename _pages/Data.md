@@ -10,7 +10,7 @@ header:
 
 <!-- Section Title -->
 <div style="text-align: center; margin-bottom: 20px;">
-  <h2><strong>App Test</strong></h2>
+  <h3 style="font-size: 16px;"><strong>Explore these apps and feel free to test them!</strong></h3>
 </div>
 
 <!-- Embedded App -->
