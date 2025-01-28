@@ -4,8 +4,9 @@ permalink: /Data/
 title: "Data"
 author_profile: true
 header:
-  image: "/images/L1007377.jpg"
+	image:  "/images/L1007377.jpg"
 ---
+  
 
 <!-- Section Title -->
 <div style="text-align: center; margin-bottom: 20px;">
