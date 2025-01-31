@@ -1,9 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-8BSC2J4MF0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+ # 🎉 Welcome to My Webpage! 🌍  
 
-  gtag('config', 'G-8BSC2J4MF0');
-</script>
+Hello and welcome! 😊 Feel free to explore and connect with me! 🚀  
