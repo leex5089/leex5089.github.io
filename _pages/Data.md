@@ -28,6 +28,10 @@ header:
 <div style="display: flex; justify-content: center; margin-bottom: 30px;">
   <iframe src="/_pages/Map/childcareaccess_map.html" width="920" height="700" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" frameborder="0" allowTransparency="true" scrolling="yes"></iframe>
 </div>
+<!-- Add Childcare Access Map -->
+<div style="display: flex; justify-content: center; margin-bottom: 30px;">
+  <iframe src="/_pages/Map/us_housing.html" width="920" height="700" style="border-radius: 8px; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);" frameborder="0" allowTransparency="true" scrolling="yes"></iframe>
+</div>
 
 
 <!-- Add Childcare Access Map -->
