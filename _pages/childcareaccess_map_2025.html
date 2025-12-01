@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Child Care Access – Map</title>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script>
+  <link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" rel="stylesheet" />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #020617;
+      color: #e5e7eb;
+    }
+
+    #map {
+      position: absolute;
+      inset: 0;
+    }
+
+    .info-panel {
+      position: absolute;
+      top: 16px;
+      left: 16px;          /* moved to top-right */
+      width: 340px;         /* a bit wider & fixed */
+      padding: 14px 16px;
+      border-radius: 12px;
+      background: rgba(15, 23, 42, 0.92);
+      color: #e5e7eb;
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45);
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      z-index: 1;
+      backdrop-filter: blur(6px);
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    .info-title {
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+      margin-bottom: 6px;
+      color: #f9fafb;
+    }
+
+    .info-subtitle {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #9ca3af;
+      margin-bottom: 10px;
+    }
+
+    .info-row {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+
+    .info-label {
+      font-weight: 500;
+      color: #9ca3af;
+      font-size: 12px;
+    }
+
+    .info-value {
+      font-variant-numeric: tabular-nums;
+      color: #e5e7eb;
+      font-size: 12px;
+      text-align: right;
+    }
+
+    .info-footer {
+      margin-top: 8px;
+      font-size: 10px;
+      color: #6b7280;
+    }
+
+    .info-value-strong {
+      color: #38bdf8;
+      font-weight: 500;
+    }
+
+    .mapboxgl-ctrl-group {
+      border-radius: 999px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<div class="info-panel">
+  <div class="info-title">Child Care Access</div>
+  <div class="info-subtitle">Hover over a point</div>
+
+  <div class="info-row">
+    <div class="info-label">County</div>
+    <div class="info-value" id="county_name">—</div>
+  </div>
+  <div class="info-row">
+    <div class="info-label">District #</div>
+    <div class="info-value" id="house_district">—</div>
+  </div>
+  <div class="info-row">
+    <div class="info-label">School District</div>
+    <div class="info-value" id="school_district_name">—</div>
+  </div>
+
+  <div class="info-row" style="margin-top:8px;">
+    <div class="info-label">Nearby slots (all)</div>
+    <div class="info-value info-value-strong" id="adj_supply_any">—</div>
+  </div>
+  <div class="info-row">
+    <div class="info-label">Nearby slots – CCC</div>
+    <div class="info-value" id="adj_supply_ccc">—</div>
+  </div>
+  <div class="info-row">
+    <div class="info-label">Nearby slots – FCC</div>
+    <div class="info-value" id="adj_supply_fcc">—</div>
+  </div>
+  <div class="info-row">
+    <div class="info-label">Nearby slots – Highly Rated</div>
+    <div class="info-value" id="adj_supply_hr">—</div>
+  </div>
+  <div class="info-row">
+    <div class="info-label">Highly rated share</div>
+    <div class="info-value" id="s_adj_supply_hr">—</div>
+  </div>
+
+  <div class="info-footer">
+    Providers: 2025 NDS2 · Synthetic children location: 2020 Census
+  </div>
+</div>
+
+<script>
+  mapboxgl.accessToken =
+    'pk.eyJ1Ijoid29uc2Z3b24iLCJhIjoiY21iOG9vYXdiMGtqMzJtcHBra25oY2pvMCJ9.Mw2k5dwsBD8Qtrx-DpLNlg';
+
+  var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/dark-v9',
+    zoom: 10,
+    minZoom: 8,
+    center: [-93.26559008925989, 44.978186407024694]
+  });
+
+  function fmt(val) {
+    if (val === null || val === undefined || isNaN(val)) return '—';
+    return Number(val).toFixed(2);
+  }
+
+  // Move controls so they don't overlap the panel
+  map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
+
+  map.on('load', function () {
+    map.addLayer({
+      id: 'MN_ccaccess_2025_clean-6zbidk',
+      type: 'circle',
+      source: {
+        type: 'vector',
+        url: 'mapbox://wonsfwon.5z74l7at'
+      },
+      'source-layer': 'MN_ccaccess_2025_clean-6zbidk',
+      paint: {
+        'circle-radius': {
+          base: 1.75,
+          stops: [[6, 2], [22, 140]]
+        },
+        'circle-color': [
+          'interpolate',
+          ['linear'],
+          ['get', 'adj_supply_any'],
+          0.28, '#f97373',
+          0.45, '#fb923c',
+          0.62, '#facc15',
+          0.85, '#22c55e',
+          10.3, '#22d3ee'
+        ],
+        'circle-opacity': [
+          'case',
+          ['boolean', ['feature-state', 'hover'], false],
+          0.15,
+          0.65
+        ]
+      }
+    });
+
+    var hoveredId = null;
+
+    map.on('mousemove', 'MN_ccaccess_2025_clean-6zbidk', function (e) {
+      var f = e.features[0];
+      var p = f.properties;
+
+      if (hoveredId !== null) {
+        map.setFeatureState(
+          { source: 'MN_ccaccess_2025_clean-6zbidk', sourceLayer: 'MN_ccaccess_2025_clean-6zbidk', id: hoveredId },
+          { hover: false }
+        );
+      }
+      if (typeof f.id !== 'undefined') {
+        hoveredId = f.id;
+        map.setFeatureState(
+          { source: 'MN_ccaccess_2025_clean-6zbidk', sourceLayer: 'MN_ccaccess_2025_clean-6zbidk', id: hoveredId },
+          { hover: true }
+        );
+      }
+
+      document.getElementById('county_name').textContent          = p.county_name || '—';
+      document.getElementById('house_district').textContent       = p.house_district || '—';
+      document.getElementById('school_district_name').textContent = p.school_district_name || '—';
+
+      document.getElementById('adj_supply_any').textContent  = fmt(p.adj_supply_any);
+      document.getElementById('adj_supply_ccc').textContent  = fmt(p.adj_supply_ccc);
+      document.getElementById('adj_supply_fcc').textContent  = fmt(p.adj_supply_fcc);
+      document.getElementById('adj_supply_hr').textContent   = fmt(p.adj_supply_hr);
+      document.getElementById('s_adj_supply_hr').textContent = fmt(p.s_adj_supply_hr);
+    });
+
+    map.on('mouseleave', 'MN_ccaccess_2025_clean-6zbidk', function () {
+      if (hoveredId !== null) {
+        map.setFeatureState(
+          { source: 'MN_ccaccess_2025_clean-6zbidk', sourceLayer: 'MN_ccaccess_2025_clean-6zbidk', id: hoveredId },
+          { hover: false }
+        );
+      }
+      hoveredId = null;
+
+      ['county_name','house_district','school_district_name',
+       'adj_supply_any','adj_supply_ccc','adj_supply_fcc',
+       'adj_supply_hr','s_adj_supply_hr'
+      ].forEach(function (id) {
+        document.getElementById(id).textContent = '—';
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
